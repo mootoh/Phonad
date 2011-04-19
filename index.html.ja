@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="author" content="mootoh, Motohiro Takayama" />
+  <meta name="description" content="ふぉなど" />
+  <meta name="keywords" content="ふぉなど, iPhone" />
+  <link rev="Made" href="mailto:mootoh@gmail.com" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <title>ふぉなど</title>
+</head>
+<body>
+  <div id="header">
+    <img src="phonad.png" alt="deadbeaf.org" title="deadbeaf.org" />
+    <h1>ふぉなど</h1>
+  </div>
+  <div id="content">
+    <div id="left">
+      <p>電話番号からアドレス帳を検索するアプリです。</p>
+      <img src="AppIcon.png"/>
+      <h2>スクリーンショット</h2>
+      <img src="SplashScreen.png" />
+      <img src="MainScreen.png" />
+      <img src="SearchResults.png" />
+      <!-- TODO: add video -->
+    </div>
+    <div id="right">
+      <h2>ゲット</h2>
+      <p><a href="http://itunes.com/app/phonad">iTunes Store でダウンロード</a>
+      <h2>サポート</h2>
+      <ul>
+         <li>メール: <a href="mailto:mootoh+phonad@gmail.com">mootoh+phonad@gmail.com</a></li>
+         <li>Twitter: <a href="http://twitter.com/phonad/">@phonad</a></li>
+      </ul>
+      <h2>変更履歴</h2>
+      <ul>
+         <li>2009/7/1 : 1.0 リリース</li>
+      </ul>
+    </div>
+  </div>
+  <hr style="clear:both" />
+</body>
+</html>

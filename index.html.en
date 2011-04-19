@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="author" content="mootoh, Motohiro Takayama" />
+  <meta name="description" content="Phonad" />
+  <meta name="keywords" content="Phonad, iPhone" />
+  <link rev="Made" href="mailto:mootoh@gmail.com" />
+  <link rel="short icon" href="favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <title>Phonad</title>
+</head>
+<body>
+  <div id="header">
+    <img src="phonad.png" alt="deadbeaf.org" title="deadbeaf.org" />
+    <h1>Phonad</h1>
+  </div>
+  <div id="content">
+    <div id="left">
+      <p>Look up AddressBook by Phone Number.</p>
+      <img src="AppIcon.png"/>
+      <h2>Screenshots</h2>
+      <img src="SplashScreen.png" />
+      <img src="MainScreen.png" />
+      <img src="SearchResults.png" />
+      <!-- TODO: add video -->
+    </div>
+    <div id="right">
+      <h2>Get</h2>
+      <p><a href="http://itunes.com/app/phonad">Download at iTunes Store</a>
+      <h2>Support</h2>
+      <ul>
+         <li>mail: <a href="mailto:mootoh+phonad@gmail.com">mootoh+phonad@gmail.com</a></li>
+         <li>Twitter: <a href="http://twitter.com/phonad/">@phonad</a></li>
+      </ul>
+      <h2>Changes</h2>
+      <ul>
+         <li>1 July 2009 : 1.0 released.</li>
+      </ul>
+    </div>
+  </div>
+  <hr style="clear:both" />
+</body>
+</html>
